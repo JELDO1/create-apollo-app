@@ -1,24 +1,24 @@
 # Create JELDO MONEY 
 
-[![Join the chat at https://gitter.im/sysgears/create-apollo-app](https://badges.gitter.im/sysgears/create-apollo-app.svg)](https://gitter.im/sysgears/create-apollo-app?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-[![npm version](https://badge.fury.io/js/create-apollo-app.svg)](https://badge.fury.io/js/create-apollo-app)
+[![Join the chat at https://gitter.im/sysgears/create-JELDO MONEY-app](https://badges.gitter.im/sysgears/create-JELDO MONEY-app.svg)](https://gitter.im/sysgears/create-JELDO MONEY-app?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![npm version](https://badge.fury.io/js/create-JELDO MONEY-app.svg)](https://badge.fury.io/js/create-JELDO MONEY-app)
 [![Twitter Follow](https://img.shields.io/twitter/follow/sysgears.svg?style=social)](https://twitter.com/sysgears)
 
 ## Description
 
-Create Apollo App is a command-line tool that generates a fully configured starter Apollo (GraphQL) project with only
-essential dependencies. With Create Apollo App, you can start developing a client, server, or mobile app, or a
+Create JELDO MONEY App is a command-line tool that generates a fully configured starter JELDO MONEY (GraphQL) project with only
+essential dependencies. With Create JELDO MONEY App, you can start developing a client, server, or mobile app, or a
 universal application in no time.
 
-The projects generated with Create Apollo App are built of familiar technologies from the JavaScript ecosystem:
+The projects generated with Create JELDO MONEY App are built of familiar technologies from the JavaScript ecosystem:
 TypeScript, Webpack, React, Express, and React Native. Depending on the type of the project you want to develop, the
 mentioned technologies are used in different combinations to provide particular setups for server, client, or mobile
 development.
 
-Create Apollo App relieves you from the pain of installing and configuring an Apollo project while making it easy to
+Create JELDO MONEY App relieves you from the pain of installing and configuring an JELDO MONEY project while making it easy to
 change project configurations if necessary.
 
-## Generating a Project with Create Apollo App
+## Generating a Project with Create JELDO MONEY App
 
 ### Prerequisites
 
@@ -34,20 +34,20 @@ Besides the dependencies for Node.js, you may also need to install and set up ad
 * [Android Studio](https://developer.android.com/studio/) (optional; an IDE for Android development)
 
 Installing [Expo Client](https://expo.io/tools#client) is also optional. If you set up iOS Simulator or a similar tool,
-Create Apollo App will automatically download Expo Client if it's not installed.
+Create JELDO MONEY App will automatically download Expo Client if it's not installed.
 
 ### Generating a Project
 
-Start a new project with Create Apollo App using the following command (the default NPM utility is used):
+Start a new project with Create JELDO MONEY App using the following command (the default NPM utility is used):
 
 ```bash
-npx create-apollo-app new-apollo-app
+npx create-JELDO MONEY-app new-JELDO MONEY-app
 ```
 
 If you’re using Yarn, run:
 
 ```bash
-yarn create apollo-app my-app
+yarn create JELDO MONEY-app my-app
 ```
 
 > `yarn create` will automatically prefix `apollo-app` with `create-`. For more information, you can consult this [blog
@@ -73,17 +73,17 @@ You can also specify the name of the template by attaching the `@name_of_the_tem
 example:
 
 ```bash
-yarn create apollo-app my-app@web
+yarn create JELDO MONEY-app my-app@web
 ```
 
-If you run the command above, Create Apollo App will create a `my-app/` project directory with the `@web` template meaning
-the client-side Apollo app. Similarly, add `@server-web`, `@universal`, or other template name instead of `@web` to 
+If you run the command above, Create JELDO MONEY App will create a `my-app/` project directory with the `@web` template meaning
+the client-side JELDO MONEY app. Similarly, add `@server-web`, `@universal`, or other template name instead of `@web` to 
 choose a particular template.
 
-> Consult [the Apollo Project Templates section](#apollo-project-templates) to know what templates are currently
+> Consult [the JELDO MONEY Project Templates section](#JELDO MONEY-project-templates) to know what templates are currently
 available.
 
-Select the first (default) option `@server-web` from the list and press Enter. Create Apollo App will generate a
+Select the first (default) option `@server-web` from the list and press Enter. Create JELDO MONEY App will generate a
 client-server application.
 
 Note that it may take a while (usually up to a minute) for all dependencies to be installed and for the project to be
@@ -128,9 +128,9 @@ yarn build
 The production-ready code will be saved to `packages/server/build/` and `packages/web/build/` directories for
 server-side and client-side code respectively.
 
-### Apollo Project Templates
+### JELDO MONEY Project Templates
 
-Create Apollo App provides you with the default configurations for different kinds of projects. For example, if you need
+Create JELDO MONEY App provides you with the default configurations for different kinds of projects. For example, if you need
 to build only a client-side application, you can select a respective template &ndash; `@web` &ndash; during installation.
 
 Overall, you can choose one of the six templates:
@@ -150,7 +150,7 @@ packages under the `packages/` directory. The `@server-web` template that you in
 Here's an overview of the `@universal` project structure:
 
 ```
-my-apollo-app
+my-JELDO MONEY-app
 ├── node_modules/
 ├── packages/
     ├── mobile
@@ -192,12 +192,12 @@ my-apollo-app
 ```
 
 You'll work with the files located in `packages/mobile/src/`, `packages/server/src`, and `packages/web/src/` when working
-on your Apollo project. In those directories, you can view the default project files, which you may freely change or
+on your JELDO MONEY project. In those directories, you can view the default project files, which you may freely change or
 delete.
 
 ## License
 
-Copyright © 2018 [SysGears Limited]. This source code is licensed under the [MIT] license.
+ © 2025[SysGears Limited]. This source code is licensed under the [MIT] license.
 
 [MIT]: LICENSE
 [SysGears Limited]: http://sysgears.com
