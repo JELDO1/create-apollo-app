@@ -1,4 +1,4 @@
-# Create Apollo App
+# Create JELDO MONEY 
 
 [![Join the chat at https://gitter.im/sysgears/create-apollo-app](https://badges.gitter.im/sysgears/create-apollo-app.svg)](https://gitter.im/sysgears/create-apollo-app?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![npm version](https://badge.fury.io/js/create-apollo-app.svg)](https://badge.fury.io/js/create-apollo-app)
